@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "CBS News",
+        "title": "Hollywood works to save and revitalize local movie theaters",
+        "description": "Patrick Wilson is one of the Hollywood names working to save the nation's small-town theaters, which have struggled for years. Nancy Chen has more.",
+        "url": "https://www.cbsnews.com/video/hollywood-works-to-save-and-revitalize-local-movie-theaters/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/11/a7446e79-b316-443c-8f26-aa877e2f0a90/thumbnail/1200x630/4f932c06a5d472d7422448a10004a95a/0311-satmo-hollywood-theatre-1787795-640x360.jpg",
+        "publishedAt": "2023-03-11T16:49:30+00:00",
+        "content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Lisa Respers France",
+        "title": "Analysis: Will this year’s ceremony add to the list of the Oscars’ best moments?",
+        "description": "Hollywood's biggest night used to be so much bigger, but I digress.",
+        "url": "http://us.cnn.com/2023/03/11/entertainment/best-oscars-moments-awards-season-highlights-plc/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/200113085634-nominados-al-oscar-1917-joker-the-irishman-tarantino-parasite-corea-brk-arciniegas-00011301.jpg?q=x_149,y_284,h_2085,w_3706,c_crop/w_800",
+        "publishedAt": "2023-03-11T11:55:46Z",
+        "content": "A version of this story appeared in Pop Life Chronicles, CNNs weekly entertainment newsletter. To get it in your inbox, sign up for free here.\r\nHollywoods biggest night used to be so much bigger, but… [+3631 chars]"
+      },
+      {
+        "source": {
+          "id": "the-huffington-post",
+          "name": "The Huffington Post"
+        },
+        "author": "Marco Margaritoff",
+        "title": "Sen. Tammy Duckworth Reveals Oscars Favorite, Notes For Hollywood War Films",
+        "description": "“I’m just thrilled to see Asians on screen who are not the cooks or the maids or the sidekicks,” said Duckworth, the first Thai American woman elected to Congress.",
+        "url": "https://www.huffpost.com/entry/sen-tammy-duckworth-reveals-oscar-favorite-has-notes-for-hollywood-war-films_n_640b5cf1e4b0584b4747a8fb",
+        "urlToImage": "https://img.huffingtonpost.com/asset/640b5e572400005d008c3778.jpeg?cache=o2TxpyFcrQ&ops=1200_630",
+        "publishedAt": "2023-03-10T19:29:07Z",
+        "content": "Sen. Tammy Duckworth (D-Ill.) is excited for the Oscars and rooting for her favorite film.\r\nIm obviously rooting for Everything Everywhere All at Once, Duckworth told The Hollywood Reporter in an int… [+2193 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Lindsey Sitz, Ross Godwin",
+        "title": "Quiet on Set | The hidden dangers of movie and TV production",
+        "description": "Watch our short documentary exploring the working conditions of filmworkers on Hollywood sets.",
+        "url": "https://www.washingtonpost.com/arts-entertainment/2023/03/07/filmworkers-danger-documentary/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WPBZCMBUDJEHLL2S7D42U6WKEY.jpg&w=1440",
+        "publishedAt": "2023-03-07T10:02:31Z",
+        "content": "Comment on this story\r\nHollywoods glitz and glamour often obscures the crews tirelessly toiling behind the scenes to produce the movie magic that rakes in billions of dollars every year. Contractors … [+1216 chars]"
+      },
+      {
+        "source": {
+          "id": "recode",
+          "name": "Recode"
+        },
+        "author": "Peter Kafka",
+        "title": "Snow Crash author Neal Stephenson on the metaverse, making movies, climate fears",
+        "description": "An interview with the science fiction pioneer on tech fans, Hollywood, and whether you need a headset to visit the metaverse.",
+        "url": "https://www.vox.com/technology/2023/3/6/23627351/neal-stephenson-snow-crash-metaverse-goggles-movies-games-tv-podcast-peter-kafka-media-column",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/7UUAU_u35LaEdPZKf5cNSBE5FeI=/0x0:6000x3141/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24483392/1385780116.jpg",
+        "publishedAt": "2023-03-06T18:20:00Z",
+        "content": "Every science fiction author tries to imagine the future. But very few get what Neal Stephenson is experiencing: Some of the worlds most powerful companies are actively trying to create the future he… [+12807 chars]"
+      }
+    ]
+  }

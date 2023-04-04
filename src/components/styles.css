@@ -1,0 +1,21 @@
+.card{
+    overflow: hidden;
+    cursor: pointer;
+
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.card-img-top{
+    height: 100%; width: 100%;
+    background-position: center;
+	background-size: cover;
+	transition: all ease-in-out 0.3s;
+}
+.card-hover:hover .card-img-top {
+	transform: scale(1.11);
+}
+
+.badge{
+    z-index: 1;
+}
