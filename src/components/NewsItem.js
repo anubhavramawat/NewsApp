@@ -6,7 +6,7 @@ const NewsItem =(props)=> {
     let { title, description, imageUrl, newsUrl, author, date, source} = props;
     return (
      
-      <div>
+      <div className="my-3">
         <div className="card">
           <div style={{
                         display: 'flex',
